@@ -18,7 +18,7 @@ To use this serverless example:
 
 Please note that you can change the images in the prompt by updating the URLs. Ensure that the names of the image files correspond to the names of the flowers they represent.
 
-This implies that when replacing an image URL, the new image should be named appropriately to reflect the type of flower it depicts. For example, if you are updating the URL for an image of a rose to oranges, the file should be named something like "https://domain.tld/oranges.jpg" or "https://domain.tld/oranges.png" to clearly indicate what the image represents.  
+This implies that when replacing an image URL, the new image should be named appropriately to reflect the type of flower it depicts. For example, if you are updating the URL for an image of a rose to oranges, the file should be named something like `https://domain.tld/oranges.jpg` or `https://domain.tld/oranges.png` to clearly indicate what the image represents.  
 
 ## Message sent
 
