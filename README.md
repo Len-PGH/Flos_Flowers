@@ -1,6 +1,8 @@
 # FLO'S FLOWERS
 SignalWire AI flower sending bot. This digital Employee sends an ecard image (mms/sms) along with a text message.
 
+Live demo: Call `+1-337-435-6937`
+
 To use this serverless example:
 
 * Copy the [SWML.json](https://github.com/Len-PGH/Flos_Flowers/blob/main/SWML.json) example and create a new SWML bin.
