@@ -1,7 +1,7 @@
 # FLO'S FLOWERS
 SignalWire AI Flower sending bot. This digital Employee sends an ecard image (mms/sms) along with a text message.
 
-To use this example:
+To use this serverless example:
 
 * Copy the [SWML.json](https://github.com/Len-PGH/Flos_Flowers/blob/main/SWML.json) example and create a new SWML bin.
 * Update and save the `change-me` sections in the SWML.json file.
