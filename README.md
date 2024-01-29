@@ -8,13 +8,15 @@ To use this example:
 * point a SignalWire number to the SWML bin you just created.
 * Enjoy!
 
-Please note that you can change the images in the prompt by updating the URLs. Ensure that the names of the image files correspond to the names of the flowers they represent.
 
-This implies that when replacing an image URL, the new image should be named appropriately to reflect the type of flower it depicts. For example, if you are updating the URL for an image of a rose to oranges, the file should be named something like "https://domain.tld/oranges.jpg" or "https://domain.tld/oranges.png" to clearly indicate what the image represents.  
 
 ![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/9c196439-c791-4ebe-8fc1-23ab934daf71)
 
 -------------------
+
+Please note that you can change the images in the prompt by updating the URLs. Ensure that the names of the image files correspond to the names of the flowers they represent.
+
+This implies that when replacing an image URL, the new image should be named appropriately to reflect the type of flower it depicts. For example, if you are updating the URL for an image of a rose to oranges, the file should be named something like "https://domain.tld/oranges.jpg" or "https://domain.tld/oranges.png" to clearly indicate what the image represents.  
 
 ## Message sent
 
