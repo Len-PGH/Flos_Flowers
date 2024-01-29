@@ -1,13 +1,22 @@
 # Flos_Flowers
-SignalWire AI bot. Digital Employee sends an ecard image (mms/sms) along with a text message
+SignalWire AI bot. Digital Employee sends an ecard image (mms/sms) along with a text message.
 
+To use this example:
 
+* Copy the [SWML.json](https://github.com/Len-PGH/Flos_Flowers/blob/main/SWML.json) example and create a new SWML bin.
+* Update and save the `change-me` sections in the SWML.json file.
+* point a SignalWire number to the SWML bin you just created.
+* Enjoy!
 
 ![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/9c196439-c791-4ebe-8fc1-23ab934daf71)
 
+-------------------
 
+## Message sent
 
+Message and mms sent.
 
+![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/655c2f17-a6a0-4938-9e86-66b3edd03764)
 
 
 
