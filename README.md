@@ -8,6 +8,8 @@ To use this example:
 * point a SignalWire number to the SWML bin you just created.
 * Enjoy!
 
+Please note that you can change the images used by updating the url's in the prompt. Make sure to name the files the same as what flower name it is.  
+
 ![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/9c196439-c791-4ebe-8fc1-23ab934daf71)
 
 -------------------
