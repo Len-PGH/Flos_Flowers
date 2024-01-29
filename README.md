@@ -1,4 +1,4 @@
-# Flos_Flowers
+# Flos Flowers
 SignalWire AI bot. Digital Employee sends an ecard image (mms/sms) along with a text message.
 
 To use this example:
