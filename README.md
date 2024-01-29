@@ -1,8 +1,9 @@
 # Flos_Flowers
-SignalWire AI bot. Digital Employee Sends an Ecard image with mms/sms
+SignalWire AI bot. Digital Employee sends an ecard image (mms/sms) along with a text message
 
 
 
+![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/9c196439-c791-4ebe-8fc1-23ab934daf71)
 
 
 
