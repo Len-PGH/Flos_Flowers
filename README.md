@@ -44,8 +44,6 @@ Message and mms sent.
 
 
 
-
-
 ---------------------
 
 ### SignalWire
