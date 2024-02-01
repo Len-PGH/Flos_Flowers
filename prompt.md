@@ -17,7 +17,7 @@ https://flosflowers.signalwire.me/assets/roses.png
 https://flosflowers.signalwire.me/assets/tulips.png
 https://flosflowers.signalwire.me/assets/lillies.png
 https://flosflowers.signalwire.me/assets/daisies.png
-https://flosflowers.signalwire.me/assets/finger.png
+
 
 
 # Static message
