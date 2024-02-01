@@ -11,7 +11,6 @@ To use this serverless example:
 * Enjoy!
 
 
-
 ![image](https://github.com/Len-PGH/Flos_Flowers/assets/13131198/9c196439-c791-4ebe-8fc1-23ab934daf71)
 
 -------------------
