@@ -6,7 +6,7 @@ Live demo: Call `+1-337-435-6937`
 To use this serverless example:
 
 * Copy the [SWML.json](https://github.com/Len-PGH/Flos_Flowers/blob/main/SWML.json) example and create a new SWML bin.
-* Update and save the `change-me` sections in the SWML.json file.
+* Update and save the `change-me` sections and  `"from_number": "+13374356937",` in the SWML.json file.
 * point a SignalWire number to the SWML bin you just created.
 * Enjoy!
 
